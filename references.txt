@@ -1,0 +1,10 @@
+References:
+ChatGpt discussion about error and performance analysis: https://chat.openai.com/share/4e3fdf0a-c6bb-4b5a-8e49-389514be5352
+ChatGpt discussion about the ode solver: https://chat.openai.com/share/4e3fdf0a-c6bb-4b5a-8e49-389514be5352
+ChatGpt discussion about the locator vectorization: https://chat.openai.com/share/0f5e3fcd-8ca5-4e08-9aff-78a085fb03b9
+ChatGpt discussion about the mapping refactoring: https://chat.openai.com/share/c3b9122d-c526-48ee-9fb3-02feed8b0fe1
+Documentations of SciPy integrate: https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.odeint.html
+
+Code used to cleanup the solver_analysis.ipynb notebook: https://chat.openai.com/share/7550bfe4-3618-4ac5-80aa-bea321c392e3
+
+Code used to cleanup the solver_analysis.ipynb notebook: https://chat.openai.com/share/5369a425-5347-4627-b93b-83f3a39bde8d

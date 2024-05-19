@@ -1,0 +1,18 @@
+numpy >= 1.13.0
+scipy
+sympy
+pandas
+matplotlib
+mpltools
+pytest
+pytest-timeout
+sphinx
+dask
+distributed
+gdown
+folium
+flake8==6.1.0
+pydocstyle==6.3.0
+nbval==0.10.0
+pytest-cov==4.1.0
+haversine # only for test of `great_circle_distance` function
